@@ -1,0 +1,9 @@
+.vc_shortcode-param .select2-search__field,
+.vc_shortcode-param .select2-container {
+	width: 400px !important;
+	max-width: 100%;
+}
+
+.ultimate-responsive-wrapper .ultimate-responsive-items .ult-responsive-item .ult-responsive-input {
+	width: 60px;
+}
